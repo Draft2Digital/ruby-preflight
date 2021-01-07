@@ -1,6 +1,6 @@
 $LOAD_PATH.unshift File.dirname(__FILE__)
 
-require "preflight"
+require "ruby-preflight"
 
 preflight = Preflight::Profiles::PDFX1A_2003.new
 

@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name              = "preflight"
+  s.name              = "ruby-preflight"
   s.version           = "0.3.0"
   s.summary           = "Check PDF files conform to various standards"
   s.description       = "Provides a programatic way to check a PDF file conforms to standards like PDF-X/1a"
